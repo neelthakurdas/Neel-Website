@@ -1,0 +1,5 @@
+---
+title: "Projects"
+---
+
+Attached [here](https://medium.com/@neelthakurdas8114) is my Medium page, where I have written articles on on my Data Science projects across a variety of topics that interest me.
